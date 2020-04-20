@@ -1,16 +1,17 @@
+<head>
 <style> 
 h1 {
   color: yellow;
-  font-size: 50px;
+  font-size: 700px;
   }
 h2 {
   color: blue;
   }
   
 </style>
+</head>
 
-
-
+<body>
 <h1> Test Website </h1>
 
 <h2> Hijack </h2> 
@@ -28,3 +29,4 @@ h2 {
 <p3> LATEST MIXES </p3>
 <ul>
 <li> Dunks' latest mix <a href="https://soundcloud.com/dunks808/dunking-n-munching-mcvities" target="_blank"> </a> 
+</body>
